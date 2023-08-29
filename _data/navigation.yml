@@ -1,7 +1,13 @@
 # Site navigation links
 
-- title: Projects
-  url: /projects/
+- title: About
+  url: /About/
+
+- title: me
+  url: /me/
+
+- title: Masterarbeit
+  url: /Masterarbeit/
 
 - title: Code
   url: /Code/
