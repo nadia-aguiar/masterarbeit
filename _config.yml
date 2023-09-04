@@ -4,7 +4,7 @@ bio:                'eine Black Digital Humanties Praxis'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/logo1.png'
 background:         'assets/img/boho-style-7314646_1920.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
