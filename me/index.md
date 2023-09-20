@@ -4,7 +4,7 @@ title: me
 #excerpt: "A List of Posts"
 comments: false
 ---
-<img src ="./assets/img/image72.png" style="float: right; margin-left: 20px" >
+<img src ="assets/img/image72.png" style="float: right; margin-left: 20px" >
 
 Hey!
 
