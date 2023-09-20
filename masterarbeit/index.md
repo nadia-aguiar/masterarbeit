@@ -31,4 +31,4 @@ Das letzte Kapitel bildet das Fazit der Masterarbeit.
 
 Nachfolgend finden Sie die vollständige Masterarbeit als PDF zum Download
 
-[PDF - Masterarbeit](/masterarbeit/PDF/masterarbeit_final_ndso.pdf){: .btn}
+[PDF - Masterarbeit](masterarbeit/PDF/masterarbeit_final_ndso.pdf){: .btn}
