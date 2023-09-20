@@ -1,4 +1,10 @@
 # Site navigation links
 
-#- title: About
-#  url: /about/
+- title: Me
+  url: /me/
+
+- title: Masterarbeit
+  url: /masterarbeit/
+
+- title: Code
+  url: /code/
